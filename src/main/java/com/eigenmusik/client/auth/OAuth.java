@@ -5,7 +5,7 @@ import com.eigenmusik.client.Pair;
 import java.util.Map;
 import java.util.List;
 
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-02-06T18:41:28.441Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-02-06T19:24:59.502Z")
 public class OAuth implements Authentication {
   private String accessToken;
 

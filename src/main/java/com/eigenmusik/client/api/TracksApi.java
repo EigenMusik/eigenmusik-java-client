@@ -14,7 +14,7 @@ import com.eigenmusik.client.model.TrackStreamUrl;
 
 import java.util.*;
 
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-02-06T18:41:28.441Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-02-06T19:24:59.502Z")
 public class TracksApi {
   private ApiClient EigenMusikapiClient;
 
