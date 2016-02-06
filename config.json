@@ -1,0 +1,9 @@
+{
+  "modelPackage" : "com.eigenmusik.client.model",
+  "apiPackage" : "com.eigenmusik.client.api",
+  "invokerPackage" : "com.eigenmusik.client",
+  "groupId" : "com.eigenmusik",
+  "artifactId" : "eigenmusik-java-client",
+  "artifactVersion" : "1.0.0",
+  "localVariablePrefix" : "EigenMusik"
+}
