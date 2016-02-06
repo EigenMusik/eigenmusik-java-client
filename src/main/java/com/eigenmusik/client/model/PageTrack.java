@@ -13,7 +13,7 @@ import java.util.*;
 
 
 
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-02-06T19:24:59.502Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-02-06T19:54:54.326Z")
 public class PageTrack   {
   
   private List<Track> content = new ArrayList<Track>();

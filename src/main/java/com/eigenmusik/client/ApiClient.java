@@ -41,7 +41,7 @@ import com.eigenmusik.client.auth.HttpBasicAuth;
 import com.eigenmusik.client.auth.ApiKeyAuth;
 import com.eigenmusik.client.auth.OAuth;
 
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-02-06T19:24:59.502Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-02-06T19:54:54.326Z")
 public class ApiClient {
   private Map<String, String> defaultHeaderMap = new HashMap<String, String>();
   private String basePath = "https://api.eigenmusik.com/";
